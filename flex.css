@@ -2,8 +2,11 @@
   display: flex;
   background-color: rgb(215, 215, 198);
   padding: 10px;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
 }
 
 .box-1 {
