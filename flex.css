@@ -3,7 +3,7 @@
   background-color: rgb(215, 215, 198);
   padding: 10px;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   gap: 15px;
 }
@@ -13,6 +13,7 @@
   margin: 10px;
   padding: 20px;
   font-size: 20px;
+  flex-grow: 1;
 }
 
 .box-2 {
@@ -20,6 +21,7 @@
   margin: 10px;
   padding: 20px;
   font-size: 20px;
+  flex-grow: 1;
 }
 
 .box-3 {
@@ -27,6 +29,7 @@
   margin: 10px;
   padding: 20px;
   font-size: 20px;
+  flex-grow: 1;
 }
 
 .box-4 {
@@ -34,32 +37,5 @@
   margin: 10px;
   padding: 20px;
   font-size: 20px;
-}
-
-.box-5 {
-  background-color: rgba(165, 6, 6, 0.523);
-  margin: 10px;
-  padding: 20px;
-  font-size: 20px;
-}
-
-.box-6 {
-  background-color: rgb(45, 74, 87);
-  margin: 10px;
-  padding: 20px;
-  font-size: 20px;
-}
-
-.box-7 {
-  background-color: chocolate;
-  margin: 10px;
-  padding: 20px;
-  font-size: 20px;
-}
-
-.box-8 {
-  background-color: rgb(118, 161, 240);
-  margin: 10px;
-  padding: 20px;
-  font-size: 20px;
+  flex-grow: 1;
 }
