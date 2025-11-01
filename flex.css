@@ -1,4 +1,4 @@
-.container {
+/* .container {
   background-color: aqua;
   display: flex;
   flex-direction: row;
@@ -56,4 +56,9 @@
   border-radius: 8px;
   border: 1px solid black;
   padding: 20px;
+} */
+
+.container {
+  background-color: aqua;
+  height: 100vh;
 }
