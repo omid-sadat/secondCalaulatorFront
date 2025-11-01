@@ -1,15 +1,32 @@
 body {
-  background-color: rgb(125, 133, 125);
-  height: 100vh;
+  background-color: #563b3b;
 }
 
-.container {
-  color: white;
+h2 {
+  border: 2px solid black;
   display: flex;
-  gap: 20px;
+  height: 10vh;
+  justify-content: center;
+  align-items: center;
 }
 
-.grid-item-1 {
-  height: 50px;
-  width: 50px;
+.hero {
+  border: 2px solid black;
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-section {
+  display: flex;
+  justify-content: center;
+  color: gray;
+  width: 100%px;
+  height: 180px;
+  border: 2px solid black;
+  margin-top: 5px;
+}
+
+.grid-item {
 }
