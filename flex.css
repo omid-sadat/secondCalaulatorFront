@@ -1,5 +1,5 @@
 body {
-  background-color: #563b3b;
+  background-color: #9e8c8c;
 }
 
 h2 {
@@ -20,13 +20,85 @@ h2 {
 
 .card-section {
   display: flex;
+  gap: 30px;
   justify-content: center;
   color: gray;
   width: 100%px;
-  height: 180px;
+  height: 280px;
   border: 2px solid black;
   margin-top: 5px;
 }
 
-.grid-item {
+.grid-item-1 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+
+.grid-item-2 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+.grid-item-3 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+.grid-item-4 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+.grid-item-5 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+.grid-item-6 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+
+.grid-item-7 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+.grid-item-8 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 2rem;
+  width: 120px;
+  height: 120px;
+  flex-direction: row;
+}
+
+footer,
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
