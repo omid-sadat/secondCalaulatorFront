@@ -81,3 +81,10 @@ button {
   color: white;
   grid-column: span 2; /* makes = button double width */
 }
+
+.button-number:hover,
+.button-ac:hover,
+.button-ce:hover,
+.button-per:hover {
+  background-color: #475569;
+}
